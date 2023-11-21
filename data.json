@@ -1,0 +1,74 @@
+{
+  "soccerPlayers": [
+    {"id": "1",
+    "name": "Mohamed Salah",
+     "age": "31",
+     "nationality": "Egypt",
+    "club": "Liverpool FC",
+    "position": "right winger"
+  },
+  
+  {"id":"2",
+  "name":	"Andy Robertson",
+  "age": "29",
+  "nationality":"Scotland",
+  "club":	"Liverpool FC",
+  "position":	"left back"},
+
+  {"id":"3",
+  "name":	"Allison Becker",
+  "age": "31",
+  "nationality":"Brazil",
+  "club":	"Liverpool FC",
+  "position":	"goalie"},
+
+  {"id":"4",
+  "name":	"Lionel Messi",
+  "age": "36",
+  "nationality": "Argentina",
+  "club":	"Inter Miami FC",
+  "position":	"left winger"},
+
+  {"id":"5",
+  "name":	"Cristiano Ronaldo",
+  "age": "38",
+  "nationality":"Portugal",
+  "club":	"Al-Nassr",
+  "position":	"striker"},
+
+  {"id":"6",
+  "name":	"Kylian Mbappe",
+  "age": "24",
+  "nationality":"France",
+  "club":	"PSG",
+  "position":	"left back"},
+
+  {"id":"7",
+  "name":	"Erling Haaland",
+  "age": "23",
+  "nationality": "Norway",
+  "club":	"Manchester City",
+  "position":	"striker"},
+
+  {"id":"8",
+  "name":	"Harry Kane",
+  "age": "30",
+  "nationality":"England",
+  "club":	"Bayern Munich",
+  "position":	"striker"},
+
+  {"id":"9",
+  "name":	"Robert Lewandoski",
+  "age": "35",
+  "nationality":"Poland",
+  "club":	"Barcelona FC",
+  "position":	"striker"},
+
+  {"id":"10",
+  "name":	"Heung-Min Son",
+  "age": "31",
+  "nationality":"South Korea",
+  "club":	"Tottenham Hotspur",
+  "position":	"left winger"}
+  ]
+}
