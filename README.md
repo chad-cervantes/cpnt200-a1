@@ -4,6 +4,7 @@
 
 ### Attributions
 
+- Note: I used my cpnt 262 Reactivity & Events graded activity for this assignment 
 - [How to make comments on a JSON file](https://www.freecodecamp.org/news/comments-in-json/)
 
 ### API Link
