@@ -1,5 +1,26 @@
-{
-  "soccerPlayers": [
+{"title": "Reactivity and Events",
+"h1": "Add a list of soccer players who play in Europe",
+
+"headingTitleOne": "Dark Mode Toggle",
+"darkModeButton": "Light/Dark Mode",
+
+"headingTitleTwo": "Carousel of Players",
+"previousButton": "Previous",
+"nextButton": "Next",
+
+"headingTitleThree": "Input to add new players",
+"labelOne": "Add Name",
+"inputPlaceholderOne": "Name",
+"labelTwo": "Add Team",
+"inputPlaceholderTwo": "Team",
+"labelThree": "Add Position",
+"inputPlaceholderThree": "Position",
+"inputButton": "Add Player",
+
+"headingTitleFour": "List of PLayers",
+
+"_comment": "I added more players from the original object array",
+"listOfPlayers": [
     {"id": "1",
     "name": "Mohamed Salah",
      "age": "31",
@@ -70,5 +91,8 @@
   "nationality":"South Korea",
   "club":	"Tottenham Hotspur",
   "position":	"left winger"}
-  ]
+  ],
+
+  "previousButtonPlayer": "Previous",
+  "nextButtonPlayer": "Next"
 }
