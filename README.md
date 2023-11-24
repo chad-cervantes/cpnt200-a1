@@ -12,3 +12,8 @@
 - [Data USA population API](https://datausa.io/api/data?drilldowns=Nation&measures=Population)
 
 ### List of Queries
+
+- GET [https://datausa.io/api/data?drilldowns=Nation&measures=Population]
+  - Params
+    - Key: drilldowns, measures
+    - Value: Nation, Population
