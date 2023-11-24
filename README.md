@@ -17,3 +17,8 @@
   - Params
     - Key: drilldowns, measures
     - Value: Nation, Population
+
+- GET [https://datausa.io/api/data?measures=Population&Year=2020]
+  - Params
+    - Key: measures, Year
+    - Value: Population, 2020
